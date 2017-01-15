@@ -1,0 +1,23 @@
+{
+  "name": "foreens",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macharianthiga/foreens.git"
+  },
+  "author": "nthiga macharia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macharianthiga/foreens/issues"
+  },
+  "homepage": "https://github.com/macharianthiga/foreens#readme",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.0"
+  }
+}
