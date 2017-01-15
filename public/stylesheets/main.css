@@ -10,6 +10,7 @@
   padding:2rem 0;
 }
 
+
 /*------------------------banner----------------------------------*/
 #home-banner{
   background-image: url("../images/04.jpg");
@@ -111,6 +112,7 @@
 .shop{
   padding-bottom: 4rem;
   border-bottom: 1px solid rgba(34,36,38,.1);
+  
 }
 .shop h1{
   padding-top: 1.2rem;
