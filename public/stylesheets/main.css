@@ -279,8 +279,16 @@ div.column.featured{
   .futa .column img{
     margin-left: 10%;
   }
-  div.six.wide.news.column{
-    padding-left:90px;
+  .foota li a{
+    color: #fff !important;
+    
+  }
+  .foota ul{
+    list-style: none;
+  }
+  div.six.wide.news.column .news-wrapper{
+    padding-left:1.5rem;
+    padding-right: 1.5rem;
   }
 }
 
